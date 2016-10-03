@@ -1,0 +1,142 @@
+#signup{
+	// position: fixed;
+	width: 100%;
+	height: 100%;
+	padding: 4% 18%;
+}
+#signup .signup-wrap{
+	background: #ffffff;
+    height: auto;
+    -webkit-box-shadow: 0 1px 1px rgba(0,0,0,0.15),-1px 0 0 rgba(0,0,0,0.03),1px 0 0 rgba(0,0,0,0.03),0 1px 0 rgba(0,0,0,0.12);
+    -moz-box-shadow: 0 1px 1px rgba(0,0,0,0.15),-1px 0 0 rgba(0,0,0,0.03),1px 0 0 rgba(0,0,0,0.03),0 1px 0 rgba(0,0,0,0.12);
+    box-shadow: 0 1px 1px rgba(0,0,0,0.15),-1px 0 0 rgba(0,0,0,0.03),1px 0 0 rgba(0,0,0,0.03),0 1px 0 rgba(0,0,0,0.12);
+}
+#signup .signup-wrap .form-section{
+	height: 100%;
+	float: left;
+	width: 	63%;
+	padding: 30px;
+}
+#signup .signup-wrap .form-section .form-heading{
+	font-size: 22px;
+    font-weight: 600;
+    color: #333;
+}
+#signup .signup-wrap .form-section .form-wrap{
+	margin-top: 25px;
+	margin-bottom: 10px;
+}
+#signup .signup-wrap .form-section button.login-submit{
+	border: none;
+    padding: 11px 50px;
+    margin-top: 15px;
+    background-color: #2672ae;
+    color: #ffffff;
+    font-weight: 600;
+}
+#signup .signup-wrap .form-section .form-wrap:nth-child(1){
+	margin-top: 25px;
+}
+#signup .signup-wrap .form-section .form-wrap .form-label{
+	display: block;
+	display: block;
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    padding-bottom: 5px; 
+    color: #6D6D6D;
+}
+#signup .signup-wrap .form-section .form-wrap input{
+	width: 90%;
+    height: 40px;
+    font-size: 10px;
+    padding: 0 10px;
+    border: 1px solid #E7E7E7;
+}
+#signup .signup-wrap .info-section{
+	height: 593px;
+	background-color: #30455C;
+	float: right;
+	width: 37%;
+	padding: 30px;
+	color: #ffffff;
+}
+#signup .signup-wrap .info-section .logo{
+  font-family: pacifico, cursive;
+  color: #ffffff;
+  font-size: 25px;
+}
+#signup .signup-wrap .info-section .caption{
+	font-size: 13px;
+    margin-top: 3em;
+}
+#signup .signup-wrap .info-section .haveAccount{
+	font-size: 13px;
+    margin-top: 20em;
+}
+#signup .signup-wrap .info-section .caption p{
+}
+#signup .signup-wrap .info-section .sign-up{
+	color: #ffffff;
+    border: 1px solid #ffffff;
+    display: inline-block;
+    padding: 9px 0px;
+    margin-top: 1em;
+    width: 100%;
+    text-align: center;
+}
+#signup .social-login{
+	margin-top: 1em;
+}
+#signup .social-login .title{
+	text-align: center;
+	color: #ffffff;
+	padding-bottom: 10px;
+	font-weight: 500;
+}
+#signup .social-login ul{
+	text-align: center;
+	margin: 0;
+	padding: 0;
+}
+#signup .social-login li{
+	display: inline-block;
+}
+#signup .social-login li a{
+	color: #ffffff;
+	display: inline-block;
+	display: inline-block;
+    padding: 10px 15px;
+    margin-right: 15px;
+}
+#signup .social-login li a.facebook{
+	background-color: #3b5998;
+}
+#signup .social-login li a.google{
+	background-color: #DD4C3B;
+}
+#signup .social-login li a.linkedin{
+	background-color: #007AB9;
+}
+#signup .outside-content{
+	text-align: center;
+	margin-top: 3em;
+}
+#signup .outside-content ul{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+#signup .outside-content ul li{
+	display: inline-block;
+}
+#signup .outside-content ul li a{
+	color: #ffffff;
+	display: inline-block;
+	margin-right: 10px;
+	font-size: 13px;
+}
+
+#signup .outside-content ul li a:hover{
+	text-decoration: underline;
+}
